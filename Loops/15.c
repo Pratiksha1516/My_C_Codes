@@ -30,7 +30,6 @@ int main()
 }
 
 
-
 /*
     fun's logic:
     iNum%1==0
