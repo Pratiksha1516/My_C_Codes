@@ -1,6 +1,5 @@
 #include<stdio.h>
 
-
 void Display(int iNum)
 {
     int icount = 0;
