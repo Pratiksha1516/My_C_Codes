@@ -8,7 +8,7 @@ int main()
     float mark4 = 96.67;
     float mark5 = 98.89;
 
-    float mark[5] = { 60.89, 70.58, 88.90, 96.67, 98.89};
+    float mark[5] = { 60.89, 70.58, 88.90, 96.67, 98.89 };
 
     printf("print array is %f",mark[4]);
 
