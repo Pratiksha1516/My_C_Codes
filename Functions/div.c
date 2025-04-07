@@ -1,6 +1,5 @@
 #include<stdio.h>
 
-
 int Division()
 {
     int iNum= 50;
@@ -11,7 +10,6 @@ int Division()
 
     return ans;
 }
-
 
 int main()
 {
