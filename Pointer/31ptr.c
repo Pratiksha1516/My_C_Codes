@@ -7,7 +7,5 @@ int main()
     printf("%d\n",iNum);
     int *ptr;
 
-   
-
     return 0;
 }
