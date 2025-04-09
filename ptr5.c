@@ -12,6 +12,5 @@ int main()
     printf("%d\n",&q);
     printf("%d\n",*q);
 
-
     return 0;
 }
