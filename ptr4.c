@@ -13,7 +13,6 @@ int main()
     printf("%d\n",no);
     printf("%d\n",ptr);
     printf("%d\n",&ptr);
-
-
+    
     return 0;
 }
