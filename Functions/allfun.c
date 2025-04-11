@@ -44,8 +44,6 @@ int Division()
     return ans;
 }
 
-
-
 int main()
 {
 
@@ -64,8 +62,6 @@ int main()
     int iRet3 = 0;
     iRet3 = Division();
     printf("Division is :%d\n", iRet3);
-
-
 
     return 0;
 }
