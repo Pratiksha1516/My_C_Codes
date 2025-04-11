@@ -24,8 +24,6 @@ void Substraction()
 
 }
 
-
-
 int main()
 {
     int iRet;
