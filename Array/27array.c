@@ -18,6 +18,6 @@ int main()
     printf("%d\n", Arr[1]);
     printf("%d\n", Arr[2]);
     printf("%d\n", Arr[3]);
-
+  
     return 0;
 }
