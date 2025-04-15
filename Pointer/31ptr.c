@@ -6,6 +6,7 @@ int main()
 
     printf("%d\n",iNum);
     int *ptr;
+    int *ptr = &iNum;
 
     return 0;
 }
